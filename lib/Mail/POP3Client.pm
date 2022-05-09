@@ -26,7 +26,7 @@ require Exporter;
 # Do not simply export all your public functions/methods/constants.
 @EXPORT = qw();
 
-$VERSION = '2.20';
+$VERSION = '2.21';
 
 
 # Preloaded methods go here.
